@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StreakFireApp",
-    "slug": "StreakFireApp",
+    "slug": "streak",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
